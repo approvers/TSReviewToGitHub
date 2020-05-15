@@ -1,0 +1,14 @@
+{
+  "name": "TSReviewToGitHub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/github:brokenManager/TSReviewToGitHub.git",
+  "author": "isso0424 <isso04240129@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.2"
+  },
+  "scripts": {
+    "build": "tsc src/index.ts --outFile index.js"
+  }
+}
